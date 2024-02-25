@@ -21,3 +21,5 @@ Using the above commands we can
 - Connect to broker as consumer (using the console-consumer utility)
 
 
+#### Reference
+https://kafka.apache.org/quickstart
